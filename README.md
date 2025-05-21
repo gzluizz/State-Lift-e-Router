@@ -38,7 +38,7 @@ lift-state-router/
 ├── .gitignore
 ├── package.json
 └── README.md
-
+```
 ---
 
 ## 📦 Instalação e Execução

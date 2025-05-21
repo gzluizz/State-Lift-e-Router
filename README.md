@@ -21,6 +21,7 @@ Este é um projeto simples em React desenvolvido para praticar dois conceitos fu
 
 ## 🧱 Estrutura de Pastas
 
+```bash
 lift-state-router/
 ├── public/
 │ └── index.html

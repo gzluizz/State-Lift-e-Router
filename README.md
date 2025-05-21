@@ -21,3 +21,28 @@ Este é um projeto simples em React desenvolvido para praticar dois conceitos fu
 
 ## 🧱 Estrutura de Pastas
 
+lift-state-router/
+├── public/
+│ └── index.html
+├── src/
+│ ├── components/
+│ │ ├── AlterarTexto.jsx
+│ │ └── ExibirTexto.jsx
+│ ├── pages/
+│ │ ├── Home.jsx
+│ │ ├── Produtos.jsx
+│ │ └── Sobre.jsx
+│ ├── App.jsx
+│ └── main.jsx
+├── .gitignore
+├── package.json
+└── README.md
+
+---
+
+## 📦 Instalação e Execução
+
+### 1. Clone o repositório:
+
+```bash
+git clone https://github.com/gzluizz/State-Lift-e-Router.git
